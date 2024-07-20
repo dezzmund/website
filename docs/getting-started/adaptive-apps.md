@@ -62,7 +62,7 @@ def main(page):
 ft.app(target=main)
 ```
 
-By setting just `page.adaptive = True` you can make you app looking awesome on both iOS and Android devices:
+By setting just `page.adaptive = True` , you can make your app look awesome on both iOS and Android devices:
 
 <div className="row">
   <div className="col col--6" style={{textAlign: 'center'}}>
